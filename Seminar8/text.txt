@@ -1,0 +1,11 @@
+Name: Alice, Age: 25, Occupation: Engineer
+Name: Bob, Age: 30, Occupation: Teacher
+Name: Charlie, Age: 22, Occupation: Student
+Name: David, Age: 35, Occupation: Doctor
+Name: Eve, Age: 28, Occupation: Scientist
+Phone: +1234567890
+Date: 2023-11-15
+Color: blue, red, green
+Empty line:
+
+Multiple   spaces   here.

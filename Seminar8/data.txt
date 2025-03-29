@@ -1,0 +1,8 @@
+Alice 85 92
+Bob 72 65
+Charlie 110 88
+Alice 90 95
+Dave 105 78
+Eve 120 85
+Bob 80 70
+Alice 95 55
